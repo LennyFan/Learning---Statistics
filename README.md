@@ -12,10 +12,19 @@ Suffienciency/ Effienciency
 
 Hypothesis Testing
 - variance is known
-> Normal (LRS)
-> GLRT ( one sample / two samples )
+>> Normal (LRS)
+>>
+>> GLRT ( one sample / two samples )
 
+- variance is unknown
+>> t-test
+>> Normal (LRS) [ do do ]
+>>
+>> GLRT ( one sample / two samples )
 
+ANOVA TEST
+- One Way
+- Two way
 
 
 
