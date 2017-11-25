@@ -12,5 +12,5 @@ It will always be the same sign as the slope estimatetor Beta1. However, it has 
 - The range of coefficient is [-1,1]
 
 - * it is only useful to measure the linear association between x an y by the defination of correlation. Therefore, not useful to measur the nonlinear association!)
->> < Note > : Independent -> Uncorrelated.    Uncorrelated(linear) x-> independent
+>> < Note > : Independent -> Uncorrelated.    Uncorrelated(linear uncorrelated) doesn't imply independent
 
