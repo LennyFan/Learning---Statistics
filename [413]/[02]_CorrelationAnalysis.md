@@ -14,3 +14,8 @@ It will always be the same sign as the slope estimatetor Beta1. However, it has 
 - * it is only useful to measure the linear association between x an y by the defination of correlation. Therefore, not useful to measur the nonlinear association!)
 >> < Note > : Independent -> Uncorrelated.    Uncorrelated(linear uncorrelated) doesn't imply independent
 
+
+
+
+## Spearman Rank Correlation v.s Pearson Correlation
+> The Spearman correlation coefficient is often described as being "nonparametric". This can have two meanings: First, a perfect Spearman correlation results when X and Y are related by any monotonic function. Contrast this with the Pearson correlation, which only gives a perfect value when X and Y are related by a linear function. The other sense in which the Spearman correlation is nonparametric in that its exact sampling distribution can be obtained without requiring knowledge (i.e., knowing the parameters) of the joint probability distribution of X and Y. [ https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient ]
