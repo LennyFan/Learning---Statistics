@@ -23,5 +23,8 @@ Comparing the variance between the group and the vriance withing the group. If w
 >  In general, mild deviations from non-normality can be detected for large data sets. However, there would be no reason to abandon least squares in this case as the deviation is mild and the effects of non-normality are mitigated by the large sample size. Should combining with other diagnostics.
 
 
+## Correlation
+- Wald-Wolfowitz test ( runs test )
 
+[ check https://github.com/johnnychiuchiu/Machine-Learning/blob/master/LinearRegression/linearRegressionModelBuilding.pdf Run's test]
 
