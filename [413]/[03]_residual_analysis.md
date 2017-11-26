@@ -26,5 +26,8 @@ Comparing the variance between the group and the vriance withing the group. If w
 ## Correlation
 - Wald-Wolfowitz test ( runs test )
 
+If there are many runs, it turns out that the correlation might be negative. Vice versa.
+
+
 [ check https://github.com/johnnychiuchiu/Machine-Learning/blob/master/LinearRegression/linearRegressionModelBuilding.pdf Run's test]
 
