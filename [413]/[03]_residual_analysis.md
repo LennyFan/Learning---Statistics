@@ -6,4 +6,4 @@
 
 ## Brown-Forsythe test
 Partition observations x_i into several groups, corresponding to observations with different values. ( basic ANOVA test !! ) 
-Comparing the variance between the group and the vriance withing the group.
+Comparing the variance between the group and the vriance withing the group. If we only partition into two groups we can use t-test. [ check 
