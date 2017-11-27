@@ -16,3 +16,13 @@ For example, let β1 and β0 be two parameters. Then a joint confidence region o
 - Benjamini-Hochberg procedure
 - Benjamini-Hochberg-Yekutieli procedure
 
+
+
+## Benjamini-Hochberg procedure
+
+
+
+
+
+
+> ### The Bonferroni correction procedure is thus one way to control the number of false discoveries. More (or maybe less) precisely, Bonferroni correction control at a significance level α attempts to guarantee that P[a > 0] ≤ α. In contrast, the Benjamini-Hochberg (BH) procedure aims to control the false discovery rate a/R. Roughly speaking, the BH procedure attempts to guarantee that E[a/R] ≤ α.
