@@ -31,3 +31,5 @@ For example, let β1 and β0 be two parameters. Then a joint confidence region o
 
 
 ## Working-Hotelling estimate
+
+[ to be filled ]
