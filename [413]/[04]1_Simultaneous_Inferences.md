@@ -22,6 +22,8 @@ For example, let β1 and β0 be two parameters. Then a joint confidence region o
 
 [ to be filled ]
 
+reference [ https://rpubs.com/aaronsc32/simultaneous-confidence-intervals ]
+
 
 
 ## Conclusion
