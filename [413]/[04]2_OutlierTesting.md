@@ -30,3 +30,4 @@ Thus the following equation follows the t-distribution ( test on one data point 
 
 > e_i / \sqrt{ MSE_i (1-h_i) }  ~ t_{n-p-1}
 
+[ check course_content/[04].png ]
