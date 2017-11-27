@@ -17,4 +17,4 @@ A way to transform non-normal response variables into a normal shape. If the dat
 
 [ http://www.statisticshowto.com/box-cox-transformation/ ]
 
-![alt text](https://raw.githubusercontent.com/LennyFan/Learning---Statistics/[413]/Course_Content/[03]Box-Cox_example1.png)
+![alt text](https://raw.githubusercontent.com/LennyFan/Learning---Statistics/%5B413%5D/Course_Content/[03]Box-Cox_example1.png)
