@@ -19,6 +19,6 @@ where h_i is th leverage of the i-th data point. Then by CLT
 
 > e_i / \sqrt{ MSE (1-h_i) }  
 
-> #### However the single e_i and MSE are not independent, therefore the function above doesn't follow the t-distribution!!! The procedure is then to delete the ith observation, fit the regression function to the remaining n−1 observations, and get new ŷ_i by x_i. ( Same idea as cross validation )
+##### However the single e_i and MSE are not independent, therefore the function above doesn't follow the t-distribution!!! The procedure is then to delete the ith observation, fit the regression function to the remaining n−1 observations, and get new ŷ_i by x_i. ( Same idea as cross validation )
 
 #### studentization ( externally studentized residual )
