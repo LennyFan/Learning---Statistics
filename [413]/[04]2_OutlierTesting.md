@@ -1,6 +1,9 @@
 
 ## standardization and studentization
 
+Reference [ https://stats.stackexchange.com/questions/99717/whats-the-difference-between-standardization-and-studentization ]
+
+
 ### Semistudentized residuals 
 
 > e_i ~ N(0,sigma^2)
@@ -22,3 +25,8 @@ where h_i is th leverage of the i-th data point. Then by CLT
 However the single e_i and MSE are not independent, therefore the function above doesn't follow the t-distribution!!! The procedure is then to delete the ith observation, fit the regression function to the remaining n−1 observations, and get new ŷ_i by x_i. ( Same idea as cross validation )
 
 ### studentization ( externally studentized residual )
+
+Thus the following equation follows the t-distribution ( test on one data point with training on n-1 data points )
+
+> e_i / \sqrt{ MSE_i (1-h_i) }  ~ t_{n-p-1}
+
