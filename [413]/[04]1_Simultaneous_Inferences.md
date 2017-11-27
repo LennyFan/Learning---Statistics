@@ -6,6 +6,6 @@ For example, let β1 and β0 be two parameters. Then a joint confidence region o
 
 - (joint) confidence region for a family of confidence intervals
 
-> ##### It provides a very conservative upper/lower bound. Similarly, if there is a large number of joint confidence intervals, then the individual confidence intervals are (much) larger than usual.
+> #### It provides a very conservative upper/lower bound. Similarly, if there is a large number of joint confidence intervals, then the individual confidence intervals are (much) larger than usual.
 
 
