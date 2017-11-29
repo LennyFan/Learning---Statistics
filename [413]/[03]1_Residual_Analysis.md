@@ -13,7 +13,7 @@ Comparing the variance between the group and the vriance withing the group. If w
 > [ check https://github.com/LennyFan/Learning---Statistics/blob/master/%5B430%5DIntro_to_statistics_outline.ipynb to get more detail of ANOVA and two-sample test]
 
 #### How to solve:
-
+Weighted Least Square ( independent but have different variance )
 
 
 ## Normality
