@@ -33,3 +33,6 @@ The null hypothesis is the model is a good fit (no lack of fit!) or can be writt
 
 
 ## Partial Residual Plots
+[ in Chaptor 7 ]
+## Partial Regression Plots
+[ in Chaptor 7 ]
