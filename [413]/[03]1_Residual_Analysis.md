@@ -12,6 +12,9 @@ Comparing the variance between the group and the vriance withing the group. If w
 
 > [ check https://github.com/LennyFan/Learning---Statistics/blob/master/%5B430%5DIntro_to_statistics_outline.ipynb to get more detail of ANOVA and two-sample test]
 
+#### How to solve:
+
+
 
 ## Normality
 - Q-Q plot
@@ -31,3 +34,5 @@ If there are many runs, it turns out that the correlation might be negative. Vic
 
 [ check https://github.com/johnnychiuchiu/Machine-Learning/blob/master/LinearRegression/linearRegressionModelBuilding.pdf Run's test]
 
+#### How to solve:
+  GLS (generalized least square )
